@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jhakaas
+https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1612647132&md5=xoiNosarZKpYv7MrhaHumw&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
+https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1612647592&md5=j9PRct6zPGeZRrzKL9oCTg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
+https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1612647776&md5=4-lTdQsX-K5c1vlr8ZCIYQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ATN BANGLA
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1612647809&md5=NVSTqtfXRhSlL8xbOlbxng&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1612648014&md5=ex6KHOT6Tblq_2UN-Ygf9g&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8?expires=1612648196&md5=4nP-kMP0gx2rA9BSSu6H_A&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8?expires=1612648227&md5=lE_6EcQTwT_YFgLP97GRZQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1612648266&md5=Ixcqr68ewZJWwyOEc2eTDw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8?expires=1612648429&md5=9zLpDkRiPk3lPkosHXQaLw&user=ef3b0701f26743a4a12ce79435bc6d0d
