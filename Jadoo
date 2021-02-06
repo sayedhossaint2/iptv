@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1612656389&md5=6nR-dPDNvFWEb99e5mJVxg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
-http://103.49.168.170:8082/1/index.m3u8?token=6a321f9617b471658d2b433a9d26bc396dbfd040-488c3fb9ada123a55a117a88684a7d0c-1612621076-1612610276&remote=202.4.101.145
+http://103.49.168.170:8082/1/index.m3u8?token=2eac98490ad7e746934fda418b2f265d44083649-bc62b1c9652f2fd47b4d459828dbe04e-1612629085-1612618285&remote=103.69.151.54
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 2
 https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1612656444&md5=BXinD3PGQA9StTiTiMYH5w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports Sel 1
