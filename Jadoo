@@ -134,6 +134,10 @@ http://103.49.168.170:8082/38/index.m3u8?token=e07f9890748c4c98accf74ee029bbe40f
 http://103.49.168.170:8082/77/index.m3u8?token=e2ad5230e18a336f8a8e576d815db9bf27cb44c1-cc6a542b1b04511e98bb291d2330176a-1612620328-1612609528&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1612656487&md5=XXkonift0mDUPmm6xJUbIg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & tv
+http://103.49.168.170:8082/100/index.m3u8?token=7b6743d5e89102a378709508116d736f9bb2eb76-6ead1bf512f32d52750c3d20076d6546-1612620521-1612609721&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & picture
+http://103.49.168.170:8082/74/index.m3u8?token=5b69b975c88fc7ceaebbec27b17f4d11f5413132-393889c6659c497904f97cde330cb702-1612620478-1612609678&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?expires=1612656750&md5=ijqQjccAJgOmjT3eBYOT3Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Zee cafe HD
