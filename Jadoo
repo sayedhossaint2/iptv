@@ -2,14 +2,28 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1612656389&md5=6nR-dPDNvFWEb99e5mJVxg&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
+http://103.49.168.170:8082/1/index.m3u8?token=6a321f9617b471658d2b433a9d26bc396dbfd040-488c3fb9ada123a55a117a88684a7d0c-1612621076-1612610276&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 2
 https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1612656444&md5=BXinD3PGQA9StTiTiMYH5w&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports Sel 1
+http://103.49.168.170:8082/27/index.m3u8?token=c90f797c45ada1bcd64bc918b5dabc3c06c37e12-100b29184a29680b482306f7eced1faa-1612620922-1612610122&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony ten 2
+http://103.49.168.170:8082/21/index.m3u8?token=96e59d882028b84a71d9dbdd4bd51d155f03299a-d819df7e275fd74be48c8a93e8e1d03f-1612620853-1612610053&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony ten 1
+http://103.49.168.170:8082/20/index.m3u8?token=349cf39408d1d081b61c6e223e9d2747e770bee6-34719f54e0764e8376e21e2f4823642e-1612620820-1612610020&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony Espn
+http://103.49.168.170:8082/23/index.m3u8?token=f27747917558a9931fc8f0baf19edcbc043e1a4b-2ccace43d11c78460e8114bfd49bf86c-1612620889-1612610089&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
+http://103.49.168.170:8082/73/index.m3u8?token=154ec58fd40e7d50b2535c35cbc9dc04807c1fc9-6a6bbe09dcd1bec1660ce1a2d668b36d-1612620960-1612610160&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jhakaas
 https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1612647132&md5=xoiNosarZKpYv7MrhaHumw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
 https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1612647592&md5=j9PRct6zPGeZRrzKL9oCTg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
 https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1612647776&md5=4-lTdQsX-K5c1vlr8ZCIYQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",GAAN BANGLA
+http://103.49.168.170:8082/58/index.m3u8?token=2a5dfdbab51c785e069d73c4c4ebbd4e0da83fd7-f76059ca35ab210218992434795c4da8-1612620993-1612610193&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ATN BANGLA
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1612647809&md5=NVSTqtfXRhSlL8xbOlbxng&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
@@ -90,6 +104,8 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?expires=161265
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?expires=1612652301&md5=7OhBh4QY5kCgNxgbaN1iEg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD
 https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1612652350&md5=mbKxEBI_qL1GkRXUSe3MaA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Colors Bangla
+http://103.49.168.170:8082/43/index.m3u8?token=2b69a48327f8af952753e8da90e6641a8acb1021-05920d20e2e9658b4e62857f89be9e7d-1612621035-1612610235&remote=202.4.101.145
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Zee Bangla Cinema
 https://edge01.iptv.digijadoo.net/live/zee_bangla_cinema/chunks.m3u8?expires=1612656676&md5=GR5YY3Zqpf2GooICGKM1oQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Movies Now
