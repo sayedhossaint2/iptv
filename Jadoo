@@ -120,8 +120,6 @@ https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8?expires=1613349794
 https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1613349231&md5=rkPPhRJZijaa40yEnTjPSg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
 https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1613349275&md5=NG9UrjNTHpSvp7FBNoQd3g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Loly Kids
-https://edge01.iptv.digijadoo.net/live/lolly_kids/chunks.m3u8?expires=1612652416&md5=rIIrHEfmcKIU2XNl-JdinA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="animal planet" tvg-logo="" group-title="English",Animal Planet
 https://edge01.iptv.digijadoo.net/live/animal_planet_hd/chunks.m3u8?expires=1613348793&md5=77l_4K9GJwGFwBo_XSnU7w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science (1)" tvg-logo="" group-title="English",Discovery Science
@@ -130,8 +128,6 @@ https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=161
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8?expires=1613349442&md5=X7e6nYGpgExQB8LzQcLDTQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="" group-title="English",fox action tv
 https://edge01.iptv.digijadoo.net/live/fox_action_movies_hd/chunks.m3u8?expires=1613349482&md5=XFfCkjT1THb7I-DtMF77yw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8?expires=1612652655&md5=W2NUcQEolTO88QmtfltnVg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo Wild
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8?expires=1613349863&md5=sElEsLjtA4LFx9z7VefDfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",MTV
@@ -188,6 +184,36 @@ https://edge01.iptv.digijadoo.net/live/dillagi/chunks.m3u8?expires=1613349210&md
 https://itv.streams.ovh/magictv/magictv/chunklist_w215157896.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", Quatar TV
 https://edge01.iptv.digijadoo.net/live/qatar_tv/chunks.m3u8?expires=1613349954&md5=TBDHtPRLhZlHrsj3-9bX8w&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Colors2
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/colorstv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", sony set max 
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/sonysetmaxhd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", sony tv
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/sonytvhd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", sony sab
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/sonysabhd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & picture
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/andpictures/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", bollywood premies
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_854x480_cf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", star gold
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/1212@!liveInx1/stargold/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", star gold UK
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/1212@!liveInx1/stargolduk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", sony pal
+https://saalamatv.fun/mp.php/http://163.172.223.102:8081/indialpc@!2/sonypal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Housefull
+https://viacom-b.multitvsolution.com/viacomhls/housefullmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MBC
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Itv
+https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 
 
 
