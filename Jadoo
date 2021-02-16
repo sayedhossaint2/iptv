@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1613348516&md5=RiH4ponp4I1wqaT_hBhKqw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1613708937&md5=wyPNGsrZUn5Ng0Hz1tbLig&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1613346634&md5=nEZ_46vVWTFmBexaLN1qZw&user=9335626110e9411cb7f7bf19657c21a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 2
-https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1613350178&md5=ZukroyXvG-EfKyBv9J0cDg&user=9335626110e9411cb7f7bf19657c21a7
+https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1613708957&md5=PY2PPlY7O8Ev4TTLgZOm9w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony ten 1
@@ -105,7 +105,7 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?expires=161335
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Star Jalsha
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8?expires=1613346634&md5=RKYiTGKamwBN-f6QvfyR_w&user=9335626110e9411cb7f7bf19657c21a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?expires=1613349665&md5=KzgYWOCsiZzc1XUTPbcdpQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613708910&md5=ciEVd1g6qGSETOrHDXt0jg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD2
 https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613349689&md5=7fQeB1lxFGweP0yX6bmPbw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Zee bangla cinema
@@ -137,17 +137,17 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=161335008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1612656622&md5=m_NxtaAzWY05-L-an0ugjg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold 2
-https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613350109&md5=bmrq6DysAihm3DkpJzgnzQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613708781&md5=iqD5yReze9kKI_gqXJTkuw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1613346576&md5=LUq_5ii_TFwX0zliYTT95w&user=9335626110e9411cb7f7bf19657c21a7
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1613708820&md5=UdT_ZnuqdxR_bw_3X1p5iw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1613350149&md5=FYd5Cf-ZPBGd8ZsBd-b1Iw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1613708842&md5=dbvVIPq0UTKG4CPBL3p7Ew&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star world HD
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8?expires=1612825287&md5=vyr1xs_6n4DubM6JV7tb0w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?expires=1613350593&md5=EelpZT1YWUAgH0p-Fxs7zA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1613708869&md5=nI0kFejYYHi6GRg7A1V9SA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zee bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus hd
