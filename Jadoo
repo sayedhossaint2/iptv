@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1613708937&md5=wyPNGsrZUn5Ng0Hz1tbLig&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1613780489&md5=7T0LQ7ZvemhLvQ8345eMjA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1613346634&md5=nEZ_46vVWTFmBexaLN1qZw&user=9335626110e9411cb7f7bf19657c21a7
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1613779870&md5=LhuM5ieTKh17g1nNFH1HpQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 2
-https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1613708957&md5=PY2PPlY7O8Ev4TTLgZOm9w&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/ss_s2/chunks.m3u8?expires=1613780465&md5=-7CnRitkjgnShUMh9ajUCQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony ten 1
@@ -17,25 +17,25 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
-https://edge01.iptv.digijadoo.net/live/ptv_sports/chunks.m3u8?expires=1613349935&md5=UWjVD43gR2Gks1tS8gRMcA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/ptv_sports/chunks.m3u8?expires=1613780223&md5=In1l63tqZ3ooQHbdE_Mvjw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jhakaas
-https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1613348617&md5=iT3witDN_MbnER9c5VxL5g&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1613779209&md5=76CahXFYcnPeyoT6qDpqCA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
-https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1613348595&md5=sTKMqYe7BXWby7gbGVUoAQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1613779251&md5=lhAE_5bGSTSzEzwuQj2ylg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
-https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1613348576&md5=mq8f_FHMOjq58xbelB7qrQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1613779237&md5=scfq4bPSJiX8O0bTmkkkFA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",GAAN BANGLA
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1613088160&md5=-EpBwr84_B4OWhgLGbl2TQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ATN BANGLA
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1613348751&md5=5HjPZomwqUBqRo5Y-1rzFQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8?expires=1613779280&md5=1UBl1BJ6M_vB7GBnVqLjKA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1613348766&md5=e6urs3-G4nZMosHdzPfmWg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8?expires=1613779293&md5=DwiIBUeG7v0h0VvFCctqQg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="ShamimHossainOfficial",Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8?expires=1613348729&md5=kHLH_vq8rOxwk6xNkVPJOg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8?expires=1613779319&md5=P9eN0Vi0omeDddjr4MGTOA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Ananda TV
 https://edge01.iptv.digijadoo.net/live/ananda_tv/chunks.m3u8?expires=1613348713&md5=9fGF0XHpyNYJbFgERtFTAQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8?expires=1613348861&md5=OEN9JtC9on1eO4Vc3d25UQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8?expires=1613780088&md5=uuAMOideA8uZJYNV7YtUyA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Infotainment",BBC Lifestyle HD
 http://globalip.telelivebd.com/hls/channel_1.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="ShamimHossainOfficial",BBC World News
@@ -47,7 +47,7 @@ https://edge01.iptv.digijadoo.net/live/bangla_tv/chunks.m3u8?expires=1613348910&
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="Zee Talkies (1)" tvg-logo="" group-title="Bangla",Bangla Talkies (1)
 https://edge01.iptv.digijadoo.net/live/bangla_talkies/chunks.m3u8?expires=1612649259&md5=Np7MUoC8xwRx72TF9o_dfw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bangla Vision HD
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8?expires=1613348936&md5=wTE6OtSsI-3GmFl0sV5tkQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8?expires=1613779483&md5=9hgA4PzFh1E3YjNJEsoCcA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",RTV
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8?expires=1613349974&md5=9ixnJ0-Elw3S2f-3SuwEEQ&user=ef3b0701f26743a4a12ce79435bc6d0d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bijoy TV
@@ -61,21 +61,21 @@ https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8?expires=1613349013&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8?expires=1613348990&md5=pMmVHAAv5zzw5Si97Kxnhw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Channel i
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1613349036&md5=S8yrpCJvi1JvfidG-n8WBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8?expires=1613779659&md5=XniU_Xq2WJZiJlMA-7KZog&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1613349057&md5=9DDnfe8h-PrtMYjHwhT8Ug&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8?expires=1613779985&md5=Qzifjx32BkYLTFFQjpvLfg&user=deb3c967a7e141188a5986d0afce5667
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",71 News
-https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1613349358&md5=8JCTCLQrjONiXYGcwlBWDA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1613780018&md5=S6ZhvwD7e-8jpS--79yzgg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Independent
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?expires=1613349638&md5=9VtY48OSaHY9RTX335780g&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8?expires=1613779930&md5=YRwMkNdmOtLLoGq-DBUJ2w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Jamuna TV
 https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8?expires=1613349743&md5=1u40-WE__TLytV0tdLqhog&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Somoy news
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1613350067&md5=2q4BREAhBef2XAHHjZdKsQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8?expires=1613780249&md5=HSzb5iguq973ind70LcdCg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1613349891&md5=w9wX-KFkjhzkq8dgAKfUjg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1613780177&md5=4fCthil7GHk58Zn_iU8a6g&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Masranga TV
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8?expires=1613349774&md5=aSSRm6aHgGSOgoaY3oiCSA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8?expires=1613780177&md5=4fCthil7GHk58Zn_iU8a6g&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Duranta Tv
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8?expires=1612650743&md5=jK6CvWQEuZqY0dF6K439kA&user=9335626110e9411cb7f7bf19657c21a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Ekushey TV
@@ -85,17 +85,17 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8?expires=1613349320
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Gaan Bangla
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8?expires=1613349527&md5=TwvzITMignJvAPyxyRZMOg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?expires=1613349077&md5=hFLl_OzLhGs4TuAJa1_EqQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8?expires=1613779953&md5=dJ4zzpnKYcbnx3OomQw5lQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?expires=1613349104&md5=J65XqctdJurQeM82JGTdEw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8?expires=1613779969&md5=Y2ipECMUPh7Smc5YDUtPIw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",SA TV
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8?expires=1613350003&md5=H-uouQzarmhiL9sjFs8sig&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8?expires=1613349816&md5=-MeaPsWxs9kQGqKMNsgioQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ETv
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8?expires=1613780040&md5=ofb3f8dmW3k0pETHHVfPtQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1612652618&md5=03aRaJXQ8hfxeGRv-j5r8g&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1613349843&md5=qXRxxSOZMS65Md-9EtEpvw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1613780159&md5=C48hQB6030dvW7d4yi-9UQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Dhinchaak
 https://edge01.iptv.digijadoo.net/live/dhinchaak/chunks.m3u8?expires=1613349153&md5=ssPprB0mgZjlQXPLU7qXyw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Dhoom Music
@@ -103,9 +103,9 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8?expires=161265084
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Sangeet Bangla
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?expires=1613350025&md5=-mLOtbc5vUOzbtSUi21Bxw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Star Jalsha
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8?expires=1613346634&md5=RKYiTGKamwBN-f6QvfyR_w&user=9335626110e9411cb7f7bf19657c21a7
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8?expires=1613780362&md5=H8-KFktVeEdcJt6zOM190A&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD
-https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613708910&md5=ciEVd1g6qGSETOrHDXt0jg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613780137&md5=1lCR0ijX_AjHIwc3raklmw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD2
 https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613349689&md5=7fQeB1lxFGweP0yX6bmPbw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Zee bangla cinema
@@ -117,11 +117,11 @@ https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8?expires=1613350539
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Movies Now
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8?expires=1613349794&md5=5TjkRFOjZix03gOaU3WNIg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD (English)" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="English",Discovery HD (English)
-https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1613349231&md5=rkPPhRJZijaa40yEnTjPSg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1613779681&md5=991eWwn980sG374fmWw-LA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
-https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1613349275&md5=NG9UrjNTHpSvp7FBNoQd3g&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1613779832&md5=7erzfFIeBeiLc3aaH2AJBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="animal planet" tvg-logo="" group-title="English",Animal Planet
-https://edge01.iptv.digijadoo.net/live/animal_planet_hd/chunks.m3u8?expires=1613348793&md5=77l_4K9GJwGFwBo_XSnU7w&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/animal_planet_hd/chunks.m3u8?expires=1613779453&md5=rfKtczv9KTasYA1T4jeYbA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science (1)" tvg-logo="" group-title="English",Discovery Science
 https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=1613349295&md5=AkUS293g8yqewJjcT0phwQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="" group-title="English",fox life
@@ -133,47 +133,49 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8?expires=16133498
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=1613350089&md5=Pt5i4O5BFj5okTS3lPlJlw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=1613780267&md5=MBdorma_ijClE9jDCfdUhg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1612656622&md5=m_NxtaAzWY05-L-an0ugjg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold 2
-https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613708781&md5=iqD5yReze9kKI_gqXJTkuw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613780288&md5=9G6rZxR6p2ruW606b19ZNA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold mhd
+https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/1212@!liveInx1/stargold/chunks.m3u8?nimblesessionid=28812085&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDIxIDExOjQwOjU3IEFNJmhhc2hfdmFsdWU9NHFFOEFTVUN3SEc2cDdmU1czK2p0QT09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1613708820&md5=UdT_ZnuqdxR_bw_3X1p5iw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1613780172&md5=StAAlf4xPcYRyS20zASgGA&user=9335626110e9411cb7f7bf19657c21a7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1613708842&md5=dbvVIPq0UTKG4CPBL3p7Ew&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1613780337&md5=RxzYX3EjmmJwwwG0OqHi6A&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star world HD
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8?expires=1612825287&md5=vyr1xs_6n4DubM6JV7tb0w&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee TV
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1613708869&md5=nI0kFejYYHi6GRg7A1V9SA&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1613780524&md5=VMZud1sjQTlQ0t05uNjGSg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zee bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zee tv
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8?expires=1613780632&md5=2cydYffJzV4FphAh2v52gw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus hd
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1613350284&md5=pbB7GQpCs7ezVkV6D-n8Qw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star Utsab
 https://edge01.iptv.digijadoo.net/live/star_utsav_movies/chunks.m3u8?expires=1613350304&md5=DgalGw6wor40GjmlzbyAog&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star movies hd
-https://edge01.iptv.digijadoo.net/live/star_movies_hd/chunks.m3u8?expires=1613350210&md5=VPpuhfuq_nYIvYbm3XMpKw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_movies_hd/chunks.m3u8?expires=1613780388&md5=hE28DkHh8WixNLj4D8hryQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star movies hd 2
-https://edge01.iptv.digijadoo.net/live/star_movies_s_hd/chunks.m3u8?expires=1613350248&md5=cqzvFNqB9Hl-HNbCtV_Mzw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_movies_s_hd/chunks.m3u8?expires=1613780445&md5=_9xBg0LlAqKuJY8b5tigtg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star world
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8?expires=1613350395&md5=smnUVri41NPXcimgyGeSAg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star world premier
 https://edge01.iptv.digijadoo.net/live/star_world_premiere_hd/chunks.m3u8?expires=1613350439&md5=oD2Z6Mlp05Gh5B4E10k0sA&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1613350467&md5=rYHhyH1JJH3E5-C66oc1gQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", & tv
-http://103.49.168.170:8082/100/index.m3u8?token=7b6743d5e89102a378709508116d736f9bb2eb76-6ead1bf512f32d52750c3d20076d6546-1612620521-1612609721&remote=202.4.101.145
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema ME
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?expires=1613780565&md5=b0eUy6BHcHrcnXM-75U-Rg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", tlc hd
-https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?expires=1613351652&md5=FLXl-wC8OSA84k-iWuHLeg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?expires=1613350516&md5=0wbNMVTtYnJglijJn9eCtQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8?expires=1613780504&md5=Pf1-t3fC1YzY-Qpaahf0bQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",HBO
-https://edge01.iptv.digijadoo.net/live/hbo_hd/chunks.m3u8?expires=1613349581&md5=nvFhR48hnMBeN9TAyww0MQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/hbo_hd/chunks.m3u8?expires=1613779899&md5=fKQyZnCIaThPbuJQX7cRww&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", Quatar TV
 https://edge01.iptv.digijadoo.net/live/qatar_tv/chunks.m3u8?expires=1613349954&md5=TBDHtPRLhZlHrsj3-9bX8w&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", bollywood premies
