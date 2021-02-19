@@ -22,6 +22,10 @@ https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", EPL live
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 1
+http://172.16.50.2:8081/live/ten1/chunks.m3u8?nimblesessionid=33534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 3
+http://172.16.50.2:8081/live/ten3/chunks.m3u8?nimblesessionid=33547
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Fox sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
