@@ -39,6 +39,15 @@ http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Fox sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1 hd
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 2 hd
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+
+https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/arab@arb/beinsports3/chunks.m3u8?nimblesessionid=29288319&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDc6MDY6MjYgQU0maGFzaF92YWx1ZT10cWZXVmcrai9RUWt2YmI2eXVLUDdRPT0mdmFsaWRtaW51dGVzPTI=
+https://mhdtvworld.live/delta/planet/miniProxy.php/http://163.172.223.102:8081/eng@usxa/willowhd/chunks.m3u8?nimblesessionid=29288081&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDc6MDM6MjggQU0maGFzaF92YWx1ZT1VV1J1N2UzRTltN0ZHbjZjekdMdUhRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
@@ -126,9 +135,9 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",sony 8
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD (English)" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="English",Discovery HD (English)
-https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1613779681&md5=991eWwn980sG374fmWw-LA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://itvorigin.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
-https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=1613779832&md5=7erzfFIeBeiLc3aaH2AJBQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="animal planet" tvg-logo="" group-title="English",Animal Planet
 https://edge01.iptv.digijadoo.net/live/animal_planet_hd/chunks.m3u8?expires=1613779453&md5=rfKtczv9KTasYA1T4jeYbA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science (1)" tvg-logo="" group-title="English",Discovery Science
@@ -136,7 +145,7 @@ https://edge01.iptv.digijadoo.net/live/discovery_science/chunks.m3u8?expires=161
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="" group-title="English",fox life
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8?expires=1613349442&md5=X7e6nYGpgExQB8LzQcLDTQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo Wild
-https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8?expires=1613349863&md5=sElEsLjtA4LFx9z7VefDfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://jiocdn.fun/redBXxxX.php?id=2166&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star Bharat
@@ -193,6 +202,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Itv
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 
 
 
