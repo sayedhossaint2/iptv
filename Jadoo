@@ -66,7 +66,9 @@ https://edge01.iptv.digijadoo.net/live/ptv_sports/chunks.m3u8?expires=1614059990
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",Pop pataka
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
+https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1614570328&md5=vYjVFJ_iOyrQrqJXhjNGdg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
+https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1614570355&md5=o7PDLss-iUV8VkUAUDvIJw&user=ef3b0701f26743a4a12ce79435bc6d0d
 https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/hdntl=exp=1613982954~acl=%2f*~data=hdntl~hmac=f8713c833401fc5eec67f1686fbeb9bacf7b52a74c13b4289475f592fadf7bdf/index_12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
@@ -181,7 +183,7 @@ https://jiocdn.fun/redBXxxX.php?id=2788&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star Bharat
-https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8?expires=1614228748&md5=C8PFTdXuZ5oIRXu_RqMtcg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/9x_jalwa/chunks.m3u8?expires=1614570410&md5=6XU--2cBgGpJoQ3LMGmhjA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Colors tv
 http://10.16.100.201/hindi/colors_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",mbc bolly
@@ -191,11 +193,11 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1614059793&md5=exRtuVD4JZCNIRPFNtlMmg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold 2
-https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1614228770&md5=kbafXw1__KcSLqd0rqFQNw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1614570261&md5=aObSqJJtUAJNDJLyhtLvOw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1614228793&md5=6Ah7dZvRaP_6sa0DbLFpng&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8?expires=1614570296&md5=SzquClX94hpX-KLDUYb4xQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1614228824&md5=cKurdAdE1lMukyl2UGpKEg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1614570314&md5=5s3T0-Q7rffUA6VTVTfTbg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", wow
@@ -226,6 +228,7 @@ http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
 http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="HINDI",Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v2a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?expires=1614570383&md5=8QSdBafOyhkvQYBF5pnGew&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", bollywood premies
