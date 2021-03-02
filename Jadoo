@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="RELGIOUS",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
-http://10.16.100.201/hindi/sportsT.m3u8
+https://live.streamingbd.com/hls/eflix/b2SLyz4u3x_Ovl9_5EkEPw/1614698434/bd_t_sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports JADOO
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1614059757&md5=9SxQH3G_rok5IDrqxPHzWQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports icc
@@ -68,8 +68,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 https://edge01.iptv.digijadoo.net/live/9x_jhakaas/chunks.m3u8?expires=1614570328&md5=vYjVFJ_iOyrQrqJXhjNGdg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
-https://edge01.iptv.digijadoo.net/live/9xm/chunks.m3u8?expires=1614570355&md5=o7PDLss-iUV8VkUAUDvIJw&user=ef3b0701f26743a4a12ce79435bc6d0d
-https://z5ams.akamaized.net/out/v1/716855b8206b4d20a05850628a90feca/hdntl=exp=1613982954~acl=%2f*~data=hdntl~hmac=f8713c833401fc5eec67f1686fbeb9bacf7b52a74c13b4289475f592fadf7bdf/index_12.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="MUSIC MASTI" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUZIK",MUSIC MASTI
@@ -154,7 +153,7 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",sony 8
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD (English)" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="English",Discovery HD (English)
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnaiciFTcri8EMmyBU7p9sbRz14QxONlZnXw&usqp=CAU" group-title="Kids",Discovery Kids
