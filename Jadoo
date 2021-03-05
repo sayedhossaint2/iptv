@@ -3,11 +3,11 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="RELGIOUS",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
-https://live.streamingbd.com/hls/eflix/b2SLyz4u3x_Ovl9_5EkEPw/1614698434/bd_t_sports.m3u8
+https://live.streamingbd.com/hls/eflix/7LMARK4a5DmHACQrcIVooA/1614853881/bd_t_sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports JADOO
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1614059757&md5=9SxQH3G_rok5IDrqxPHzWQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://prod-fastly-ap-northeast-1.video.periscope.tv/Transcoding/v1/hls/IXdF1PfStXVS-e-ZpJeLV6D8R8eNqV7RiubDCatLZ2jy1cBTqYvQxgHKDMKMEPVfIhkoiTxek1-eTzDk6fDxxg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports icc
-http://10.16.100.207:8082/sports/sportst.m3u8
+https://live.streamingbd.com/hls/eflix/7LMARK4a5DmHACQrcIVooA/1614853881/bd_t_sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
 http://10.16.100.203:8082/bangla/gtv.m3u8
 http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
@@ -16,8 +16,8 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1614060099&md
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Sony ten 1
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1yppe/master570.m3u8?v=e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",dubai sports
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master570.m3u8?v=e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein Sports xtra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", La liga TV
@@ -54,12 +54,14 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1 premium
+https://mhdtvworld.live/max/max.php?id=36135&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1 hd
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 2 hd
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",BT sports 1
+https://mhdtvworld.live/max/max.php?id=36136&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
 https://edge01.iptv.digijadoo.net/live/ptv_sports/chunks.m3u8?expires=1614059990&md5=Sl-RE2Wuuop4Jk-8UDH-6Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", AL JHAZEERA
@@ -77,10 +79,6 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV [BD]
 http://103.205.133.20/hls/btv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",ATN BANGLA
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
-http://10.16.100.205/hls/news_atn_london720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Bangla",Bangla Tv HD
