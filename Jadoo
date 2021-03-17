@@ -3,17 +3,13 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8zmLbfi.png" group-title="RELGIOUS",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
-https://live.streamingbd.com/hls/eflix/7LMARK4a5DmHACQrcIVooA/1614853881/bd_t_sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports JADOO
-https://prod-fastly-ap-northeast-1.video.periscope.tv/Transcoding/v1/hls/IXdF1PfStXVS-e-ZpJeLV6D8R8eNqV7RiubDCatLZ2jy1cBTqYvQxgHKDMKMEPVfIhkoiTxek1-eTzDk6fDxxg/transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports icc
-https://live.streamingbd.com/hls/eflix/7LMARK4a5DmHACQrcIVooA/1614853881/bd_t_sports.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
 http://10.16.100.203:8082/bangla/gtv.m3u8
 http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1614060099&md5=_9K7eyeMHZX_eiKd-yMO3Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 2
-http://10.16.100.207:8082/sports/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 1
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",dubai sports
@@ -41,7 +37,7 @@ http://172.16.50.2:8081/live/ten3/chunks.m3u8?nimblesessionid=33547
 #EXTINF:-1 tvg-logo="https://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="SPORTS",Sony Ten 3 HD
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony six
-http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS",Sony SIX HD
 http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD [2]
@@ -63,7 +59,7 @@ https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",BT sports 1
 https://mhdtvworld.live/max/max.php?id=36136&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
-https://edge01.iptv.digijadoo.net/live/ptv_sports/chunks.m3u8?expires=1614059990&md5=Sl-RE2Wuuop4Jk-8UDH-6Q&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", AL JHAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",Pop pataka
