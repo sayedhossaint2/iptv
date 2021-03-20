@@ -5,7 +5,6 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
 http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170
 http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1614060099&md5=_9K7eyeMHZX_eiKd-yMO3Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
@@ -27,9 +26,11 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 1
 http://edge.thunderbd.com:8082/20/tracks-5,2/index.m3u8?token=4d18c96aa87150d4cd4c939e3411334cd3efe95b-e4842a26f29e4e62e35c7c50198681ed-1616008079-1615997279
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest/scale-to-width-down/340?cb=20190322143617" group-title="SPORTS",Sony Ten 1 HD
-http://103.205.133.21/hls/ten1.m3u8
+http://hitectv.live/hls/stream40.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 1 (2)
 http://10.16.100.207:8082/sports/ten1_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 2
+http://hitectv.live/hls/stream39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Sony Ten 3
 http://172.16.50.2:8081/live/ten3/chunks.m3u8?nimblesessionid=33547
 #EXTINF:-1 tvg-logo="https://likeetv.com/uploads/tv_image/sony-ten-3.jpg" group-title="SPORTS",Sony Ten 3 HD
@@ -57,7 +58,7 @@ https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",BT sports 1
 https://mhdtvworld.live/max/max.php?id=36136&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",PTV sports
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+http://hitectv.live/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", AL JHAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",Pop pataka
@@ -155,7 +156,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies", & picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8?expires=1614059793&md5=exRtuVD4JZCNIRPFNtlMmg&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://hitectv.live/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
 http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1614570314&md5=5s3T0-Q7rffUA6VTVTfTbg&user=ef3b0701f26743a4a12ce79435bc6d0d
@@ -182,7 +183,7 @@ http://10.16.100.201/hindi/ztv_1stop_in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema ME
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8?expires=1614228637&md5=1H5EvGOW9jCZqu6MqDdd5Q&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://hitectv.live/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",& PICTURE
 http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="SONY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="HINDI",SONY HD
@@ -214,6 +215,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",MTV
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Fox crime
+http://hitectv.live/hls/stream34.m3u8
 
 
 
