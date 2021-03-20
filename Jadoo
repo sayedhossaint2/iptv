@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
-http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170
-http://tv.neobd.net:1935/live/tv2/chunklist_w1824446364.m3u8
+https://live.bongobd.com/hls/Zby8CPCKWN893pF-YqZd5g/1616240574/set_max_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
