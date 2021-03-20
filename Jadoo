@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",T sports
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",GTv
-https://live.bongobd.com/hls/Zby8CPCKWN893pF-YqZd5g/1616240574/set_max_hi/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Star Sports 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",ADSports 2
@@ -64,8 +64,6 @@ http://hitectv.live/hls/stream34.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",Pop pataka
 https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",Music India
-https://live.bongobd.com/hls/srZmn39DdwPs7aHW5OhnAQ/1616000563/music_india_hi/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
 http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9X Jalwaa
@@ -107,18 +105,13 @@ https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music", shemaroo music
 https://livechannel.shemaroome.com/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Star Jalsha
-http://10.16.100.200:8082/hls/starjalsha_bd_hd_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD
-https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613780137&md5=1lCR0ijX_AjHIwc3raklmw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",jalsha Movies HD2
-https://edge01.iptv.digijadoo.net/live/jalsha_movies_hd/chunks.m3u8?expires=1613349689&md5=7fQeB1lxFGweP0yX6bmPbw&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://hitectv.live/hls/stream31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Zee bangla cinema
 http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",COLORS BANGLA
-http://10.16.100.205/hls/colorsbd480.m3u8
+http://hitectv.live/hls/stream28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",ZEE BANGLA
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
-http://10.16.100.200:8082/hls/zeebangla_hd_720p.m3u8
+http://hitectv.live/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",sony 8
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery HD (English)" tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="English",Discovery HD (English)
