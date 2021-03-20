@@ -42,9 +42,11 @@ http://103.205.133.20/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD [2]
 http://otv.ftpbd.net/streams/104/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngjoy.com/pngm/952/11033345_india-cricket-logo-star-sports-2-logo-png.png" group-title="SPORTS",Star Sports 2 HD [2]
-http://10.16.100.207:8082/sports/starsports2.m3u8
+http://hitectv.live/hls/stream16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Star sports sel 1
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game", Star sports sel 1 HD
+http://hitectv.live/hls/stream37.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Fox sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Game",Bein sports 1
@@ -217,7 +219,8 @@ https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Fox crime
 http://hitectv.live/hls/stream34.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Travel xp
+http://hitectv.live/hls/stream37.m3u8
 
 
 
