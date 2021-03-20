@@ -141,6 +141,8 @@ https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery Science [HINDI]
 https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery HD
+http://hitectv.live/hls/stream9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Nat Geo Wild
 https://jiocdn.fun/redBXxxX.php?id=2166&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",history
@@ -160,8 +162,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star plus
 http://hitectv.live/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold HD
-http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Star gold intl HD
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8?expires=1614570314&md5=5s3T0-Q7rffUA6VTVTfTbg&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://edge.thunderbd.com:8082/1/index.m3u8?token=ff585714d9a946144c93bbb4c55f6440af5a1788-71edf243f661954eb7814f2308197990-1616008021-1615997221&remote=103.111.164.170
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", wow
@@ -221,7 +222,9 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10
 http://hitectv.live/hls/stream34.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",Travel xp
 http://hitectv.live/hls/stream37.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Nick
+http://hitectv.live/hls/stream23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",Sony YAY
+http://hitectv.live/hls/stream32.m3u8
 
 
