@@ -124,11 +124,11 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
                                  ** Hindi **
 #EXTINF: -1 tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Hindi", SONY HD
-http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD
-http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD [Opt]
+https://tvstream.space/jtv/line.php?c=Sony_HD&q=1200&e=.m3u8
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD 
 http://208.115.215.42/SonY_Max_HD/index.m3u8
+#EXTINF:0 tvg-logo="https://data.apksum.com/64/in.com.sonymaxmobiletv/2.0.0/icon.png" group-title="Hindi",Sony Max HD 1
+https://tvstream.space/jtv/line.php?c=Sony_Max_SD&q=1200&e=.m3u8
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",& picture
