@@ -124,8 +124,8 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1621119199&md5=f01EqpLXO4T_KmApH6S7og&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",True premier 1
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",True premier 2
-https://www.livedoomovie.com/02_PremierHD2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",bein 1
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",152.Sony Ten 1
 http://103.205.133.21/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",153.Sony Ten 2
@@ -411,80 +411,33 @@ https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=162111
 
 ****bein sports****
 
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 1 
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein premium 1 
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 2
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein premium 2
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 3
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein premium 3
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 1
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 1
 http://2.alhawalouh.xyz/live/918454578/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 2
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 2
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 3
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 3
 http://3.alhawalouh.xyz/live/645587700/index.m3u8
-
-bein sports 4
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 4
 http://1.alhawalouh.xyz/live/9787488847/index.m3u8
-
-bein sports 5
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 5
 http://1.alhawalouh.xyz/live/610303030/index.m3u8
-
-bein sports 6
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 6
 http://2.alhawalouh.xyz/live/1515000000/index.m3u8
-
-bein sports 7
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 7
 http://3.alhawalouh.xyz/live/791001144/index.m3u8
-
-bein xtra 1
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports xtra
 http://1.alhawalouh.xyz/live/9962564400/index.m3u8
-
-bein xtra 2
-
-http://1.alhawalouh.xyz/live/880025552/index.m3u8
-
-bein french 1
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein french 1
 http://1.adrawayoun.xyz/live/103/index.m3u8
-
-bein french 2
-
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein french 2
 http://1.adrawayoun.xyz/live/104/index.m3u8
 
-bein french 3
 
-http://1.adrawayoun.xyz/live/105/index.m3u8
 
-bt sports 1
-
-http://1.adrawayoun.xyz/live/143/index.m3u8
-
-bt sports 2
-
-http://1.adrawayoun.xyz/live/144/index.m3u8
-
-bt sports 3
-
-http://1.adrawayoun.xyz/live/145/index.m3u8
-
-premier sports
-
-http://1.adrawayoun.xyz/live/148/index.m3u8
-
-canal+ sports
-
-http://1.adrawayoun.xyz/live/117/index.m3u8
-
-ziggo select
-
-http://1.adrawayoun.xyz/live/150/index.m3u8
-
-Dazn 1
-
-http://1.adrawayoun.xyz/live/146/index.m3u8
 
