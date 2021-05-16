@@ -422,7 +422,9 @@ http://2.alhawalouh.xyz/live/918454578/index.m3u8
 #EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 2
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
 #EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 3
-http://3.alhawalouh.xyz/live/645587700/index.m3u8
+http://1.abdakaroukhai.xyz/live/161988840/index.m3u8
+#EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 3 HD
+http://6.abdakaroukhai.xyz/live/645587700/index.m3u8
 #EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 4
 http://1.alhawalouh.xyz/live/9787488847/index.m3u8
 #EXTINF:-1tvg-logo="" group-title="Bein Sports",bein sports 5
