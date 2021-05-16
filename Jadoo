@@ -411,28 +411,17 @@ https://edge01.iptv.digijadoo.net/live/discovery_kids/chunks.m3u8?expires=162111
 
 ****bein sports****
 
-bein premium 1 
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 1 
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
-
-bein premium 2
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 2
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
-
-bein premium 3
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein premium 3
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
-
-bein sports 1
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 1
 http://2.alhawalouh.xyz/live/918454578/index.m3u8
-
-bein sports 2
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 2
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
-
-bein sports 3
-
+#EXTINF:0 tvg-logo="" group-title="Bein Sports",bein sports 3
 http://3.alhawalouh.xyz/live/645587700/index.m3u8
 
 bein sports 4
