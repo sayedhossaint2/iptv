@@ -121,7 +121,7 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",GTv hd
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1621119199&md5=f01EqpLXO4T_KmApH6S7og&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1622320116&md5=9wFNnAnjVWZO7VMc4gPyfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",True premier 1
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",bein 1
@@ -265,7 +265,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", star gold
 https://ott.bingebd.com/live/ngrp:star_gold_all/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", star gold 2
-https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1621119645&md5=NeJHbuwsMnzTvvse8aUgaw&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1622320009&md5=pYB7MFIx6mDAZGJ2gUFt_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MTV India
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",colors hindi
