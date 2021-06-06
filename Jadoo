@@ -4,21 +4,21 @@
 *****BD CHannel*******
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BD Channel",JAMUNA TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
+http://103.205.133.21/hls/jamunatv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BD Channel",Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BD Channel",News 24
-https://rhridoy136.shortcm.li/news24.m3u8
+http://103.205.133.21/hls/news24.m3u8
 #EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="BD Channel",Somoy News
-https://rhridoy136.shortcm.li/shomoytv.m3u8
+http://103.205.133.21/hls/shomoytv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BD Channel",DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
+http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BD Channel",Maasranga
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BD Channel",Independent
 https://rhridoy136.shortcm.li/independenttv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD Channel",Channel I
-https://rhridoy136.shortcm.li/channeli.m3u8
+http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BD Channel", Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BD Channel", NTV BD
@@ -26,35 +26,35 @@ http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BD Channel",Ekattor
 http://master.beeiptv.com:8081/master/ekattor/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="BD Channel",NTV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/chunks.m3u8
+http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BD Channel",RTV
-https://rhridoy136.shortcm.li/rtv.m3u8
+http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BD Channel",Boishakhi
-https://rhridoy136.shortcm.li/boishakhitv.m3u8
+http://103.205.133.21/hls/boisakhi.m3u8
 #EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Desh-TV.png" group-title="BD Channel",Desh Tv
 https://rhridoy136.shortcm.li/deshtv.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="BD Channel",Banglavision
-https://rhridoy136.shortcm.li/banglavisiontv.m3u8
+http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BD Channel",ATN NEWS
-https://rhridoy136.shortcm.li/atnnews.m3u8
+http://103.205.133.21/hls/atnnews.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png" group-title="BD Channel",ATN Bangla
-https://rhridoy136.shortcm.li/atnbangla.m3u8
+http://103.205.133.21/hls/atnbangla.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BD Channel",My TV
-https://rhridoy136.shortcm.li/mytv.m3u8
+http://103.205.133.21/hls/banglatv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BD Channel",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BD Channel",Mohona Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BD Channel",SATV
-https://rhridoy136.shortcm.li/satv.m3u8
+http://103.205.133.21/hls/satv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BD Channel",Deepto TV
-https://rhridoy136.shortcm.li/deeptotv.m3u8
+http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="BD Channel",GTV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BD Channel",Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BD Channel",BTV World
-https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BD Channel", Asian TV
+http://103.205.133.21/hls/asiantv.m3u8
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-WBfphs9y5EU/V_n8vp8EWlI/AAAAAAAAEz8/c3Iy9VEgU0g2eVKYvdqzR0IZ2NoyN6ivwCLcB/s1600/channel-9.jpg" group-title="BD Channel",Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png" group-title="BD Channel",Ananda TV
@@ -62,7 +62,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:0 tvg-logo="https://img.favpng.com/23/13/6/logo-bijoy-tv-brand-clip-art-television-png-favpng-KL9WnQh4XXaaYPdnD9C6m4W6L.jpg" group-title="BD Channel",Bijoy TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BD Channel",Gaan Bangla
-https://rhridoy136.shortcm.li/gaanbangla.m3u8
+http://103.205.133.21/hls/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="BD Channel",RTV Music
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="BD Channel",ATN Music
