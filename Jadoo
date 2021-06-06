@@ -10,13 +10,13 @@ http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BD Channel",News 24
 http://103.205.133.21/hls/news24.m3u8
 #EXTINF:0 tvg-logo="https://megaflix.tv/uploads/tv_image/somoy-tv.png" group-title="BD Channel",Somoy News
-http://103.205.133.21/hls/shomoytv.m3u8
+http://cdn.ihub.live:8080/j-SomoyTv/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BD Channel",DBC News
 http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BD Channel",Maasranga
-https://rhridoy136.shortcm.li/maasrangatv.m3u8
+http://cdn.ihub.live:8080/j-Maasranga/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BD Channel",Independent
-https://rhridoy136.shortcm.li/independenttv.m3u8
+http://cdn.ihub.live:8080/j-IndependentTV/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BD Channel",Channel I
 http://103.205.133.21/hls/ichannel.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="BD Channel", Nagorik TV
@@ -24,15 +24,15 @@ http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BD Channel", NTV BD
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BD Channel",Ekattor
-http://master.beeiptv.com:8081/master/ekattor/playlist.m3u8
+http://cdn.ihub.live:8080/EkattorTV/index.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x91288" group-title="BD Channel",NTV
 http://103.205.133.21/hls/ntv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BD Channel",RTV
 http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BD Channel",Boishakhi
 http://103.205.133.21/hls/boisakhi.m3u8
-#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Desh-TV.png" group-title="BD Channel",Desh Tv
-https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:0 tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Desh-TV.png" group-title="BD Channel",nick Tv
+http://cdn.ihub.live:8080/Nick/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/54/71/a9/5471a9eae3b9884242e74e0a33a04445.png" group-title="BD Channel",Banglavision
 http://103.205.133.21/hls/banglavision.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BD Channel",ATN NEWS
