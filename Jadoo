@@ -376,17 +376,21 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", & prive hd
+http://cdn.ihub.live:8080/&privatehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", paramount
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English", Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English", Sony pix HD
+http://cdn.ihub.live:8080/SonyPix/index.m3u8
  
  ** Documentary **
   
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",65.Discovery HD
-https://itvorigin.multitvsolution.com/idvo/discoveryhd.m3u8 
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",68.Discovery Science Hindi
 https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",Discovery bangla
@@ -395,21 +399,21 @@ https://edge01.iptv.digijadoo.net/live/discovery/chunks.m3u8?expires=1621119254&
 https://itvorigin.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Hindi" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="Documentary",Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1,National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",National Geographic
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1,63.Discovery Hindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1,71.Animal Planet
-https://itvorigin.multitvsolution.com/idvo/aphdhindi_360p/index.m3u8
-#EXTINF:-1,71.Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",Animal Planet
+http://cdn.ihub.live:8080/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", Animal Planet HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1,75.Outdoor HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", utdoor HD
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:-1,Travel XP Hindi
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", Travel XP Hindi
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-#EXTINF:-1,75.TLC Hindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", TLC Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1,75.TLC HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 									                                   **Kids**
