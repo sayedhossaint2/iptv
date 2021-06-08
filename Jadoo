@@ -188,8 +188,14 @@ https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/ma
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Premium 1
+http://9.anbdaouras.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Premium 2
+http://5.amroutras.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 1
+http://1.alhawalouh.xyz/live/918454578/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
   
 *** Hindimusic**
 
