@@ -123,9 +123,9 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8
 ** Sports **		 										**Sports**
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",GTv hd
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://cdn.ihub.live:8080/j-GTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports
-http://103.205.133.19/hls/tsports.m3u8
+http://stream.amrbd.com:8082/GAZI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Willow TV
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports 2
@@ -158,6 +158,14 @@ http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chu
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports sel 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports 1
+http://stream.amrbd.com:8082/kn1a/index.m3u8?token=8f5457f3a4d5bd0791f2d987f847ee002e360a6d-b60c533a4e1020ae0669bb3de27f2708-1623097701-1623086901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports 2
+http://stream.amrbd.com:8082/kn2a/index.m3u8?token=b1359d90ed5beb5c24c13395cdfd1938d6b39207-8c7ef06848243ad7ab0631b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports sel 1hd
+http://stream.amrbd.com:8082/kn3a/index.m3u8?token=9e232311ba39d451afc52e0dcef4dd3b6423a125-7cbe1f0d1286d471128cdccdff779bbf-1623097764-1623086964ab4fadede-1623097731-1623086931
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports sel 2hd
+http://stream.amrbd.com:8082/kn5a/index.m3u8?token=001c89a59819ed8dc6597fe55bda30f6cf4532c6-7003b7dec22e8feec4bc372d5f1784a1-1623173534-1623162734
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",PTV sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hn9gjiJ.png" group-title="Sports", Willow SD
@@ -222,6 +230,9 @@ https://itvorigin.multitvsolution.com:443/idvo/enter10bangla.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Indian Bangla",Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indian Bangla", Jalsha movies
+http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+
 
    *Bangla Channel***
    
