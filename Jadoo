@@ -204,10 +204,10 @@ http://zana@6.amroutras.xyz/live/6161655/index.m3u8
 http://5.amroutras.xyz/live/616194987/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Premium 2 opt
 http://zana@adnaraoun.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 1
-http://1.alhawalouh.xyz/live/918454578/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2
-http://1.alhawalouh.xyz/live/69854211/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 1 Max
+http://10.ardounar.xyz/live/6262622222/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2 max
+http://6.amroutras.xyz/live/331210014/index.m3u8
   
 *** Hindimusic**
 
