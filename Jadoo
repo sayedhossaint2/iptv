@@ -124,7 +124,7 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",GTv hd
 http://cdn.ihub.live:8080/j-GTV/index.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Gtv 2
+#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Sports",Gtv 2
 http://cdn.naturalbd.com:8083/j-GTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
