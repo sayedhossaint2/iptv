@@ -196,19 +196,86 @@ https://austchannel-live.akamaized.net:443/hls/live/2002736/austchannel-sport/ma
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Premium 1
-http://9.anbdaouras.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Premium 1 (opt)
-http://zana@6.amroutras.xyz/live/6161655/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Premium 2
-http://5.amroutras.xyz/live/616194987/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Premium 2 opt
-http://zana@adnaraoun.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 1 FR
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 2 FR
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports Premium 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13139
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 3 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15755
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 1 Max
 http://10.ardounar.xyz/live/6262622222/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2 max
 http://6.amroutras.xyz/live/331210014/index.m3u8
-  
+#EXTINF:-1,|TR| " group-title="Sports", EUROSPORT 1 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
+#EXTINF:-1,|TR| " group-title="Sports", EUROSPORT 2 HD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
+
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_HD4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11142
+#EXTINF:-1,|AR| " group-title="Sports", BEINSPORTS_HD3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11141
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_HD2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11140
+#EXTINF:-1,|AR| " group-title="Sports", BEINSPORTS_HD1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11138
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD1
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9206
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD2
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9205
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD3
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9204
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD4
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9203
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD5
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9202
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD6
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9201
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_SD7
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9200
+#EXTINF:-1,|AR|" group-title="Sports", BEIN SPORTS 2 Premium SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9199
+#EXTINF:-1,|AR|" group-title="Sports", BEIN SPORTS 3 Premium SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
+#EXTINF:-1," group-title="Sports",BEINSPORTS HD5 B
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7927
+
+#EXTINF:-1,|FR|" group-title="Sports", BEINSPORTS 3 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72373
+#EXTINF:-1,|FR|" group-title="Sports", BEINSPORTS 2 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72372
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORTS 1 H265
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72371
+#EXTINF:-1,|FR|" group-title="Sports", BEINSPORTS_MAX 4_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47501
+#EXTINF:-1,|FR|" group-title="Sports", BEINSPORTS_MAX 5_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47500
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORTS_MAX 6_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47499
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORTS_MAX 7_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47498
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORTS_MAX 8_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47497
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORTS_MAX 9_FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47496
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORT 1 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32797
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORT 2 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32796
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORT 3 FHD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32795
+#EXTINF:-1,|FR| " group-title="Sports",BEINSPORT_1_SD
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18321
+#EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_GLOBAL
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/31503  
+
+
 *** Hindimusic**
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindimusic",9XM
@@ -442,8 +509,8 @@ http://cdn.ihub.live:8080/AnimalPlanet/tracks-v1a1/mono.m3u8
   
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",68.Discovery Science Hindi
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",Discovery 
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/4738
 #EXTINF:-1 tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/mcpGgOM4.png" group-title="Documentary",Discovery bangla
 https://edge01.iptv.digijadoo.net/live/discovery/chunks.m3u8?expires=1621119254&md5=YLzuCNATbXh8JpoBNPt20Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary", animal planet
