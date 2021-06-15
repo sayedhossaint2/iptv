@@ -123,9 +123,11 @@ http://103.81.198.111:8080/shopno/shopnotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",GTv hd
 http://cdn.ihub.live:8080/j-GTV/index.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Sports",Gtv 2
-http://cdn.naturalbd.com:8083/j-GTV/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1623993052&md5=hsyMIx6fDrSv1EF4_U1uVg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports Jadoo
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1623993096&md5=x4ktkItq-g3EHVBYtsz57g&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Willow TV
 https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports 2
