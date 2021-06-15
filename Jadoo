@@ -274,7 +274,34 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32795
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18321
 #EXTINF:-1,|AR| " group-title="Sports",BEINSPORTS_GLOBAL
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/31503  
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9yczQe.png" group-title="Sports", ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzWqr2y.png" group-title="Sports", ESPN ACCN
+https://gma2.blab.email/acc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5Wg70v.png" group-title="Sports", ESPN FS2
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IXmPNPY.png" group-title="Sports", ESPN SEC
+https://gma2.blab.email/sec.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZUiTwj.png" group-title="Sports", ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
+http://93.157.62.180/Supersport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
+http://93.157.62.180/Supersport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports", Super Sports 3
+http://93.157.62.180/Supersport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports 4
+http://93.157.62.180/Supersport4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports", Super Sports 5
+http://93.157.62.180/Supersport5/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Sports", Super Sports 6
+http://93.157.62.180/Supersport6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
+http://93.157.62.180/Supersport7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", ESPN
+https://gma2.blab.email/fs2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", UEFA Euro
+https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
 
 *** Hindimusic**
 
