@@ -212,6 +212,10 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15755
 http://10.ardounar.xyz/live/6262622222/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2 max
 http://6.amroutras.xyz/live/331210014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 5 max
+http://5.amroutras.xyz/live/0679877787/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 6 max
+http://9.anbdaouras.xyz/live/790006668/index.m3u8?
 #EXTINF:-1,|TR| " group-title="Sports", EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1,|TR| " group-title="Sports", EUROSPORT 2 HD
