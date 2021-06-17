@@ -110,17 +110,16 @@ http://103.205.133.19/hls/digibangla.m3u8
 
 ** Sports **		 										**Sports**
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",GTv hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",GTv hd
 https://tv.telelivebd.com/globalbanglatv/gazitv/chunks.m3u8?nimblesessionid=19854
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Sports",Gtv 2
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",Gtv 2
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1623993052&md5=hsyMIx6fDrSv1EF4_U1uVg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports Global
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Global
 https://tv.telelivebd.com/live/tsports/chunks.m3u8?nimblesessionid=19893
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",T sports Jadoo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1623993096&md5=x4ktkItq-g3EHVBYtsz57g&user=ef3b0701f26743a4a12ce79435bc6d0d
-
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2
@@ -143,9 +142,9 @@ http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklis
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dubai Sport 3 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Dubai Sport 3 ʰᵈ
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Sony six
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R568189c540dd937d777408944c30aa58?rik=CofuhFxFSKAT5g&pid=ImgRaw" group-title="Sports", Sony six
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Star sports sel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R49263ee219273882b2880e3a985a6ebd?rik=SJXlKxD4n0FfOw&pid=ImgRaw" group-title="Sports", Star sports sel 1
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Sony-six-hd.png" group-title="Sports" ,Sony Six HD
 http://103.81.104.118/hls/stream10.m3u8
@@ -167,7 +166,7 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",sport tv 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",sport tv 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/Rb3c3dbd7b184c6a3e8471d8a82569c24?rik=iaHZMkJyk34lpw&pid=ImgRaw" group-title="Sports",Sport tv 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Sky sports
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
@@ -196,7 +195,7 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEIN SPORTS 2 
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9199
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEIN SPORTS 3 Premium SD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 1 Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R1b2f9d77f9a4897f432b52cbd7335574?rik=6SOn4uZZFR8hoA&pid=ImgRaw" group-title="Sports", Bein Sports 1 Max
 http://10.ardounar.xyz/live/6262622222/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2 max
 http://6.amroutras.xyz/live/331210014/index.m3u8
