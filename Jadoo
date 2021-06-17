@@ -119,7 +119,7 @@ http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Global
 https://tv.telelivebd.com/live/tsports/chunks.m3u8?nimblesessionid=19893
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1623993096&md5=x4ktkItq-g3EHVBYtsz57g&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2
