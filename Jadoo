@@ -111,15 +111,15 @@ http://103.205.133.19/hls/digibangla.m3u8
 ** Sports **		 										**Sports**
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",GTv hd
-https://tv.telelivebd.com/globalbanglatv/gazitv/chunks.m3u8?nimblesessionid=19854
+https://tv.telelivebd.com/globalbanglatv/gazitv/chunks.m3u8?nimblesessionid=34264
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",Gtv 2
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1623993052&md5=hsyMIx6fDrSv1EF4_U1uVg&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1624326407&md5=-mkkAd2sVyRjXkhFwlkzGA&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports
 http://cdn.ihub.live:8080/j-TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Global
-https://tv.telelivebd.com/live/tsports/chunks.m3u8?nimblesessionid=19893
+https://tv.telelivebd.com/live/tsports/chunks.m3u8?nimblesessionid=34271
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1624326468&md5=y8ix3VfDpgkoLedoSxusFg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2
