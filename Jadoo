@@ -105,9 +105,6 @@ http://103.205.133.19/hls/digibangla.m3u8
 
 
 
-
-
-
 ** Sports **		 										**Sports**
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",GTv hd
@@ -217,53 +214,53 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47498
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47497
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_MAX 9_FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47496
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD1
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11138
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT_1_SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT_1_SD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18321
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 1 FR
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5525
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 2 FR
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5526
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD2
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11140
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD3
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11141
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD4
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11142
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD1
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9206
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD2
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9205
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD3
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9204
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD4
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9203
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD5
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9202
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD6
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9201
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD7
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9200
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS HD5 B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS HD5 B
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7927
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 3 H265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 3 H265
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72373
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 2 H265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 2 H265
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72372
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS 1 H265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS 1 H265
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72371
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 1 FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32797
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 2 FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32796
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT 3 FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/32795
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_GLOBAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_GLOBAL
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/31503  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", ESPN
 https://gma2.blab.email/fs2.m3u8
