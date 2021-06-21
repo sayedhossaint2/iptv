@@ -181,7 +181,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 https://www.livedoomovie.com/02_PremierHD1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13139
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 SD
@@ -198,6 +197,10 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
 http://10.ardounar.xyz/live/6262622222/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 2 max
 http://6.amroutras.xyz/live/331210014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
+http://8.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 2 HD
+http://5.amroutras.xyz/live/00002500/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 4_FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47501
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports 5 max
@@ -288,8 +291,7 @@ http://93.157.62.180/Supersport5/index.m3u8
 http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
 http://93.157.62.180/Supersport7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", UEFA Euro
-https://95-213-224-174.liveUEFA Euro 202024.online/uafootballua1.m3u8
+
 
 *** Hindimusic**
 
