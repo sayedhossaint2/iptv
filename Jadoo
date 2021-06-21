@@ -620,74 +620,58 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HPlus", Fox HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF:-1,AD SPORTS 1 720 HD
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD SPORTS 1 1080 HD
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,AD SPORTS 2 720 HD
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD SPORTS 2 1080 HD
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,AD SPORTS 3 720 HD
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD SPORTS 3 1080 HD
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,AD SPORTS 4 720 HD
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD SPORTS 4 1080 HD
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1,ABU DHABI 720 HD
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AL EMARAT 720 HD
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD DRAMA 720 HD
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD Majid 720 HD
-http://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD Majid*
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=majid_tv
-#EXTINF:-1,AD Natgeotv 720 HD
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1,AD Natgeotv*
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=natgeotv
-#EXTINF:-1,Dubai Sports 1 HD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-#EXTINF:-1,Dubai Sports 2 HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Sports 3 HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8.m3u8
-#EXTINF:-1,Sama Dubai HD
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai One HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Noor Dubai tv HD
-http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Dubai Zaman HD
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Noor Dubai Redio HD
-http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing 1HD
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing 2 HD
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing 3 HD
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Sharjah TV HD
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
-#EXTINF:-1,Al Wousta HD
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
-#EXTINF:-1,Sharjah Kalba HD
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1,Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
-#EXTINF:-1,Sharjah Sport 1080
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-EXTINF:-1,Sharjah Sport 360
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
-#EXTINF:-1,Sharjah
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1,Sharjah 2
-https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
- 
+######BEIN SPORTS####
+
+#EXTM3U
+#EXTINF:-1,B S MAX 1 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289046
+#EXTINF:-1,B S MAX 1 SD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289047
+#EXTINF:-1,B S MAX 2 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289048
+#EXTINF:-1,B S MAX 2 SD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289049
+#EXTINF:-1,B S MAX 3 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289050
+#EXTINF:-1,B S MAX 3 SD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289051
+#EXTINF:-1,B S MAX 4 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289052
+#EXTINF:-1,B S MAX 4 SD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289053
+#EXTINF:-1,B S MAX 5 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289054
+#EXTINF:-1,B S MAX 5 4K
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289055
+#EXTINF:-1,B S MAX 6 HD
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289056
+#EXTINF:-1,B S MAX 6 4K
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289057
+#EXTINF:-1,B S MAX 1 4K
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289625
+#EXTINF:-1,B S MAX 2 4K 
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289626
+#EXTINF:-1,B S MAX 3 4K 
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289627
+#EXTINF:-1,B S MAX 4 4K 
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289628
+#EXTINF:-1,B S MAX 5 4K
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289629
+#EXTINF:-1,B S MAX 6 4K
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289630
+#EXTINF:-1,B S MAX  2F
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289635
+#EXTINF:-1,B S MAX  1F
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289636
+#EXTINF:-1,BS 1 HD fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289637
+#EXTINF:-1,BS 2 HD fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289638
+#EXTINF:-1,BS 3 HD fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289639
+#EXTINF:-1,BS 1F fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289640
+#EXTINF:-1,BS 2F fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289641
+#EXTINF:-1,BS 3F fr
+http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289642
