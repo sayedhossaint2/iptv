@@ -189,10 +189,48 @@ http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13140
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9199
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEIN SPORTS 3 Premium SD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3481
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
-http://8.anbdaouras.xyz/live/9889900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 2 HD
-http://5.amroutras.xyz/live/00002500/index.m3u8
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3469
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3483
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3484
+#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3485
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3486
+#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 4K
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 SD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 SD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 SD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 SD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3476
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 4_FHD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47501
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 5_FHD
