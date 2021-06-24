@@ -155,14 +155,6 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1624643395&md
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1624643317&md5=P3aeDU9sXSa9mRqlkc4bpQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", Sony Ten 1 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", Sony Ten 2 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", Sony Ten 3 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oST30LQ.png" group-title="Sports", Sony Six HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_six/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="Sports" ,Sony Ten 1 HD
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="Sports" ,Sony Ten 2 HD
@@ -187,104 +179,22 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 HD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 1 SD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/15755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Bein Sports Premium 2 HD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports Premium 3 HD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/13140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEIN SPORTS 2 Premium SD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9199
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEIN SPORTS 3 Premium SD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3469
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3481
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3482
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3484
-#EXTINF:-1tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3485
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3478
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3486
-#EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 4K
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3480
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3469
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3471
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3473
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 5 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3477
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 6 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3479
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 1 SD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3470
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 2 SD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3472
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 3 SD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3474
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BeIN MAX 4 SD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freee/3476
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 4_FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47501
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 5_FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_MAX 6_FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47499
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_MAX 7_FHD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/47498
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32703
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32704
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32705
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6 MAX 
+http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORT_1_SD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/18321
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 1 FR
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5525
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Bein Sports 2 FR
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/5526
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_HD3
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_HD4
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/11142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD1
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9206
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD2
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD3
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD4
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD5
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD6
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS_SD7
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS HD5 B
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/7927
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 3 H265
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72373
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 2 H265
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72372
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",BEINSPORTS 1 H265
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/72371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
