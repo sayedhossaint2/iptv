@@ -59,7 +59,7 @@ http://103.205.133.19/hls/rtv.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports SD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 
@@ -151,7 +151,7 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://th.bing.com/th/id/R86af9b4a80c6b89b31c371ed058a2d07?rik=dh8BEn6C4pfPJQ&pid=ImgRaw" group-title="Sports",GTv hd
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1624643395&md5=x69-4xpgdNElJ_id3DwIzw&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports HD 
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports",T sports Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1624643317&md5=P3aeDU9sXSa9mRqlkc4bpQ&user=ef3b0701f26743a4a12ce79435bc6d0d
