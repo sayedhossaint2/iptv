@@ -179,18 +179,60 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32701
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KKzaw0T.png" group-title="Sports", Bein Sports 2 MAX 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32702
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3cWTGD.png" group-title="Sports", Bein Sports 3 MAX 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32703
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14HmsFC.png" group-title="Sports", Bein Sports 4 MAX 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32704
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2WOxd9O.png" group-title="Sports", Bein Sports 5 MAX 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32705
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vpxJZTR.png" group-title="Sports", Bein Sports 6 MAX 
-http://sniperstv.vip:8080/iptvtree/p2q8H4Pqqp5fV8DW/32706
+
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 1 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289046
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 1 SD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289047
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 2 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289048
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 2 SD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289049
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289050
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 SD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289051
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289052
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 SD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289053
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289054
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 4K
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289055
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 HD
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289056
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 4K
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289057
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 1 4K
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289625
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 2 4K 
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289626
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 4K 
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289627
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 4K 
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289628
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 4K
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289629
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 4K
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289630
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX  2F
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289635
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX  1F
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289636
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 1 HD fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289637
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 2 HD fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289638
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 3 HD fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289639
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 1F fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289640
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 2F fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289641
+#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 3F fr
+http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289642
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
@@ -547,61 +589,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HPlus", Fox HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-######BEIN SPORTS####
-
-#EXTM3U
-#EXTINF:-1,B S MAX 1 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289046
-#EXTINF:-1,B S MAX 1 SD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289047
-#EXTINF:-1,B S MAX 2 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289048
-#EXTINF:-1,B S MAX 2 SD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289049
-#EXTINF:-1,B S MAX 3 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289050
-#EXTINF:-1,B S MAX 3 SD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289051
-#EXTINF:-1,B S MAX 4 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289052
-#EXTINF:-1,B S MAX 4 SD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289053
-#EXTINF:-1,B S MAX 5 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289054
-#EXTINF:-1,B S MAX 5 4K
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289055
-#EXTINF:-1,B S MAX 6 HD
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289056
-#EXTINF:-1,B S MAX 6 4K
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289057
-#EXTINF:-1,B S MAX 1 4K
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289625
-#EXTINF:-1,B S MAX 2 4K 
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289626
-#EXTINF:-1,B S MAX 3 4K 
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289627
-#EXTINF:-1,B S MAX 4 4K 
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289628
-#EXTINF:-1,B S MAX 5 4K
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289629
-#EXTINF:-1,B S MAX 6 4K
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289630
-#EXTINF:-1,B S MAX  2F
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289635
-#EXTINF:-1,B S MAX  1F
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289636
-#EXTINF:-1,BS 1 HD fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289637
-#EXTINF:-1,BS 2 HD fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289638
-#EXTINF:-1,BS 3 HD fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289639
-#EXTINF:-1,BS 1F fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289640
-#EXTINF:-1,BS 2F fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289641
-#EXTINF:-1,BS 3F fr
-http://dreamsat-iptv.top:8080/sdfsdfsdfsds/rGMSeAaH/289642
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Radiant-BDIX (সবার চলবে না)", Asian TV
