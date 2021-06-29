@@ -276,8 +276,8 @@ http://103.205.133.21/hls/sangeetbangla.m3u8
 https://m3u-editor.com/serve/8cc440e0-c80e-11eb-9fa8-45e5eddda32b/312436692
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="Hindimusic", Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindimusic", MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindimusic", MTV Hindi
+https://wyjs.tk/index.php/http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Hindimusic", MTV Yo
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/zoom.jpg" group-title="Hindimusic" ,Zoom
@@ -342,12 +342,18 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MTV India
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-1
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-HD
+http://89.41.180.253:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",colors SD
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors Toffee SD 
 https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://tinyurl.com/y6ljem42",&TV (2)
+https://streamer-1.toffeelive.com/mobile_hls/ntv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",MBC Bolly
@@ -402,6 +408,8 @@ http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://is.gd/zg1dI5",E24 (Toffee)
+https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 
 
