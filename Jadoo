@@ -65,7 +65,6 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="SK Traders-BDIX (সবার চলবে না)", ATN Bangla 
 http://103.81.104.118/hls/stream17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="SK Traders-BDIX (সবার চলবে না)", Channel 24 
@@ -187,58 +186,68 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=““ group-title="Sports",B S MAX 1 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289046
-#EXTINF:-1tvg-logo=““ group-title"Sports",B S MAX 1 SD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289047
-#EXTINF:-1tvg-logo=““ group-title="Sports",B S MAX 2 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289048
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 2 SD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289049
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289050
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 SD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289051
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289052
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 SD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289053
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289054
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 4K
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289055
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 HD
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289056
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 4K
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289057
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 1 4K
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289625
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 2 4K 
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289626
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 3 4K 
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289627
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 4 4K 
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289628
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 5 4K
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289629
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX 6 4K
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289630
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX  2F
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289635
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S MAX  1F
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289636
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 1 HD fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289637
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 2 HD fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289638
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 3 HD fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289639
-#EXTINF:-1tvg-logo=“ group-title=“Sports”,B S 1F fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289640
-#EXTINF:-1tvg-logo=““ group-title=“Sports”,B S 2F fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289641
-#EXTINF:-1tvg-logo=“ group-title=“Sports”,B S 3F fr
-http://one.d4k4u.com:8080/SADFFGGSQFDQSDF/rGMSeAaH/289642
+#EXTINF:-1,BEIN SPORT MAX 1 H265.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3229
+#EXTINF:-1,BEIN SPORT MAX 2 H265.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3230
+#EXTINF:-1,BEIN SPORT MAX 3 H265.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3913
+#EXTINF:-1,BEIN SPORT MAX 4 H265.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3776
+#EXTINF:-1,BEIN SPORT MAX 5 H265.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3192
+#EXTINF:-1,beIN_SPORTS_1_4k
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3461
+#EXTINF:-1,beIN SPORTS MAX 1 4k.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3582
+#EXTINF:-1,beIN SPORTS MAX 2 4k.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3584
+#EXTINF:-1,beIN SPORTS MAX 3 4K.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3585
+#EXTINF:-1,Bein SPORTS MAX 4  4k.
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3581
+#EXTINF:-1,beIN_SPORTS_1_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3445
+#EXTINF:-1,beIN_SPORTS_2_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3446
+#EXTINF:-1,beIN_SPORTS_4_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3448
+#EXTINF:-1,beIN_SPORTS_5_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3449
+#EXTINF:-1,beIN_SPORTS_6_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3450
+#EXTINF:-1,beIN_SPORTS_6_sd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3436
+#EXTINF:-1,beIN_SPORTS_7_hd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3451
+#EXTINF:-1,Bein Sport 1 ENG
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3662
+#EXTINF:-1,Bein Sport 2 ENG
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3663
+#EXTINF:-1,BeIN Max SD 1
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3397
+#EXTINF:-1,BeIN Max SD 2
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3398
+#EXTINF:-1,BeIN Max SD 3
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3399
+#EXTINF:-1,BeIN Max SD 4
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3400
+#EXTINF:-1,BeIN Max SD 5
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3401
+#EXTINF:-1,BEIN SPORT MAX 1 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3187
+#EXTINF:-1,BEIN SPORT MAX 2 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3216
+#EXTINF:-1,Bein sport max 2 sd
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3576
+#EXTINF:-1,BEIN SPORT MAX 3 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3217
+#EXTINF:-1,BEIN SPORT MAX 4 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3218
+#EXTINF:-1,BEIN SPORT MAX 5 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3219
+#EXTINF:-1,BEIN SPORT MAX 6 HD
+http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3220
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network HD
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
