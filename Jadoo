@@ -111,9 +111,9 @@ http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",Bein Max 1
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Max 1
 http://7.anbdaouras.xyz/live/9889900/index.m3u8?ZaNa_iptv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",Bein Max 2
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Max 2
 http://4.amroutras.xyz/live/00002500/index.m3u8?ZaNa_iptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
@@ -138,13 +138,13 @@ http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
 http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8?hubtvapp.m3u8
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8?hubtvapp.m3u8
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8?hubtvapp.m3u8
 #EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 #EXTINF:0 group-title="[FR]SPORTE FRANCEZE 2" tvg-logo="https://i.imgur.com/51Xyjne.png",[$]BEIN SPORTS 1HD
