@@ -105,74 +105,16 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BEIN SPORT MAX 1 H265.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3229
-#EXTINF:-1,BEIN SPORT MAX 2 H265.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3230
-#EXTINF:-1,BEIN SPORT MAX 3 H265.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3913
-#EXTINF:-1,BEIN SPORT MAX 4 H265.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3776
-#EXTINF:-1,BEIN SPORT MAX 5 H265.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3192
-#EXTINF:-1,beIN_SPORTS_1_4k
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3461
-#EXTINF:-1,beIN SPORTS MAX 1 4k.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3582
-#EXTINF:-1,beIN SPORTS MAX 2 4k.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3584
-#EXTINF:-1,beIN SPORTS MAX 3 4K.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3585
-#EXTINF:-1,Bein SPORTS MAX 4  4k.
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3581
-#EXTINF:-1,beIN_SPORTS_1_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3445
-#EXTINF:-1,beIN_SPORTS_2_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3446
-#EXTINF:-1,beIN_SPORTS_4_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3448
-#EXTINF:-1,beIN_SPORTS_5_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3449
-#EXTINF:-1,beIN_SPORTS_6_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3450
-#EXTINF:-1,beIN_SPORTS_6_sd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3436
-#EXTINF:-1,beIN_SPORTS_7_hd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3451
-#EXTINF:-1,Bein Sport 1 ENG
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3662
-#EXTINF:-1,Bein Sport 2 ENG
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3663
-#EXTINF:-1,BeIN Max SD 1
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3397
-#EXTINF:-1,BeIN Max SD 2
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3398
-#EXTINF:-1,BeIN Max SD 3
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3399
-#EXTINF:-1,BeIN Max SD 4
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3400
-#EXTINF:-1,BeIN Max SD 5
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3401
-#EXTINF:-1,BEIN SPORT MAX 1 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3187
-#EXTINF:-1,BEIN SPORT MAX 2 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3216
-#EXTINF:-1,Bein sport max 2 sd
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3576
-#EXTINF:-1,BEIN SPORT MAX 3 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3217
-#EXTINF:-1,BEIN SPORT MAX 4 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3218
-#EXTINF:-1,BEIN SPORT MAX 5 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3219
-#EXTINF:-1,BEIN SPORT MAX 6 HD
-http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3220
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network HD
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",Bein Max 1
+http://7.anbdaouras.xyz/live/9889900/index.m3u8?ZaNa_iptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",Bein Max 2
+http://4.amroutras.xyz/live/00002500/index.m3u8?ZaNa_iptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
@@ -187,6 +129,36 @@ http://93.157.62.180/Supersport5/index.m3u8
 http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
 http://93.157.62.180/Supersport7/index.m3u8
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.ibb.co/sKkb94b/BSP1.png",[$]BEIN SPORTS PREMIUM 1HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png",[$]BEIN SPORTS PREMIUM 2HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
+#EXTINF:0 group-title="[FR]SPORTE FRANCEZE 2" tvg-logo="https://i.imgur.com/51Xyjne.png",[$]BEIN SPORTS 1HD
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgEDI0J3bwNlbpVmQ 
+#EXTINF:0 group-title="[FR]SPORTE FRANCEZE 2" tvg-logo="https://i.imgur.com/XjW8BTn.png",[$]BEIN SPORTS 2HD
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgIDI0J3bwNlbpVmQ
+#EXTINF:0 group-title="[FR]SPORTE FRANCEZE 2" tvg-logo="https://i.imgur.com/dLxMKoa.png",[$]BEIN SPORTS 3HD
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=IlRgMDI0J3bwNlbpVmQ
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",beIN Sports 1 Max
+http://7.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", beIN Sports 2 Max
+http://4.amroutras.xyz/live/00002500/index.m3u8
+
+
 
 *** Hindimusic**
 
