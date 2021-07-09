@@ -196,22 +196,7 @@ https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 
 						** Indian Bangla **												**Indian Bangla**
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="Indian Bangla",Zee Bangla HD
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="Indian Bangla" ,Enterr10 Bangla
-http://103.81.104.118/hls/stream26.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/jalsha_movies.jpg" group-title="Indian Bangla" ,Jalsha Movies HD
-http://103.81.104.118/hls/stream27.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="Indian Bangla" ,Colors Bangla HD
-http://103.81.104.118/hls/stream28.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="Indian Bangla" ,Zee Bangla HD
-http://103.81.104.118/hls/stream30.m3u8
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="Indian Bangla" ,Star Jalsha HD
-http://103.81.104.118/hls/stream31.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="Bangladeshi",Sony Aath
-http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indian Bangla", Jalsha movies
-http://stream.amrbd.com:8082/Jalshamovies/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla SD
@@ -224,15 +209,13 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max SD
-https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
-https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",& picture hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KixHmqt.png" group-title="Hindi",And Pictures SD
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD [Opt]
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
@@ -246,7 +229,7 @@ http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi", Star Gold Select HD
-http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_SELECT_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MTV India
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-1
@@ -335,15 +318,15 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 
   ** English **
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="English",Star Movies
-https://cutt.ly/hnEcdNk
+
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="English" ,Sony Pix HD
-http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="English", Sony pix HD toffee
-https://streamer-1.toffeelive.com/mobile_hls/sony_pix_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="English", Sony pix HD 
+
 #EXTINF:-1 tvg-logo="" group-title="English", Sony pix 720P
-https://streamer-1.toffeelive.com/?bitrate=1024000&channel=sony_pix_hd_720&user=3f9d934125e351dd7405e09485f0a2a7
+
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="English" ,Star Movies HD
-http://103.81.104.118/hls/stream3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC
@@ -366,29 +349,11 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dQrdh2F.png" group-title="English", Al Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",beIN Movies 1 Premiere
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",beIN Movies 2 Action
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",beIN Movies 3 Drama
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/53
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",beIN Movies 4 Family
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/54
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",beIN Drama 1
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/55
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",OSN Movies HD
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/68
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",OSN Action HD
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/69
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",OSN Enigma HD
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/70
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English" ,OSN Movies First HD
-http://dlxfree.spdns.eu:21917/dlxfree.spdns.eu/dlxfree.spdns.eu/71 
- ** Documentary **
+
  
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/dis.png" group-title="Documentary" ,Discovery HD Bangla
 http://103.81.104.118/hls/stream9.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/H4jzQnt/unnamed-removebg-preview-1.png",Discovery HD
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.ibb.co/H4jzQnt/unnamed-removebg-preview-1.png",Discovery HD
 http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",National Geographic
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
@@ -411,28 +376,6 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc773
 
 									                                   **Kids**
 
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/nick.jpg" group-title="kids" ,Nick
-http://103.81.104.118/hls/stream23.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="kids",Nick
-http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png",Nick Sonic
-https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonyyay.jpg" group-title="kids" ,Sony Yay
-http://103.81.104.118/hls/stream32.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="kids" ,ANI Plus
-http://210.210.155.35/dr9445/h/h02/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="kids" ,Animax
-http://210.210.155.35/session/2c8f6ae4-24de-11eb-bca2-b2008dc64d25/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="kids" ,Spacetoon
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="kids" ,Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Big_Magic.jpg" group-title="kids" ,Big Magic
-https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="kids" ,Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Akaram Kidz
-https://piratesiptv.shortcm.li/akaram.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Animax
 https://piratesiptv.shortcm.li/animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Aniplus
