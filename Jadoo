@@ -222,8 +222,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Movies)" tvg-logo="https://i.ibb.co/SJmLFwG/Star-gold-800x445-removebg-preview.png",Star Gold (1)
-http://89.41.180.253:8080/INDIA_HINDI/STAR_GOLD_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD (opt)
 http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
@@ -234,14 +233,11 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-1
 http://103.205.133.19/hls/chsp.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-HD
-http://89.41.180.253:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",colors SD
 http://103.205.133.21/hls/chc.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors Toffee SD 
-https://streamer-1.toffeelive.com/mobile_hls/colors_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-https://streamer-1.toffeelive.com/?bitrate=1024000&channel=colors_hd_720&user=04dfcf51f5f17bc7739a41f294e2adbb
+
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://tinyurl.com/y6ljem42",&TV (2)
 https://streamer-1.toffeelive.com/mobile_hls/ntv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
@@ -269,7 +265,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png",Colors Rishtey
-https://streamer-1.toffeelive.com/mobile_hls/colors_rishtey/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9MgQWiHhgAA1NS8OwKoqDkQ_MfCxsWvEOG2LHNK5aozsLeyNKHwH1sMRx2WgsAMMMVu0&usqp=CAU" group-title="Hindi",Sony Sab
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.v4stream.com/upload/source/Raise%20tamilhd.png" group-title="Hindi",Rasi Movies
