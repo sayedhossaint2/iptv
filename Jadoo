@@ -157,8 +157,8 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 http://7.anbdaouras.xyz/live/9889900/index.m3u8
 #EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", beIN Sports 2 Max
 http://4.amroutras.xyz/live/00002500/index.m3u8
-
-
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports", beIN Sports 5 Max
+http://hnn.bibinkrour.xyz/live/0679877700/index.m3u8?
 
 *** Hindimusic**
 
