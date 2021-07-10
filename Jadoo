@@ -217,20 +217,23 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",& picture hd
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD [Opt]
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/u9FbIYV.png",The Q india
+https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD (opt)
-http://103.81.104.118/hls/stream19.m3u8
+https://wyjs.tk/index.php/http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 HD
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png",Star Gold 2
+http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q0nObmP.png" group-title="Hindi", Star Gold Select HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", MTV India
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/bu01fzb.png",Mtv
+https://wyjs.tk/index.php/http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/mBGQXsd/Star-Plus-logo-removebg-preview.png",Star Plus-1
 http://103.205.133.19/hls/chsp.m3u8
 
@@ -238,7 +241,7 @@ http://103.205.133.19/hls/chsp.m3u8
 http://103.205.133.21/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
 
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://tinyurl.com/y6ljem42",&TV (2)
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://tinyurl.com/y6ljem42",&TV (2)
 https://streamer-1.toffeelive.com/mobile_hls/ntv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi", Colors Cineplex HD
 http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
@@ -294,8 +297,8 @@ http://89.41.180.253:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.ibb.co/NZ5DYk5/B4-U-Kadak-removebg-preview.png",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://is.gd/zg1dI5",E24 (Toffee)
-https://streamer-1.toffeelive.com/mobile_hls/e24/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+
 
 
 
@@ -370,30 +373,40 @@ https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png",Sony BBC Earth (Toffee)
 https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-									                                   **Kids**
+									                                   **Kids*
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Animax
-https://piratesiptv.shortcm.li/animax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Aniplus
-https://piratesiptv.shortcm.li/aniplus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Baby First
-https://piratesiptv.shortcm.li/baby.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Boomerang
-https://piratesiptv.shortcm.li/boom.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Cartoon Network
-https://piratesiptv.shortcm.li/cn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Cartoon Network English
-http://103.205.133.21/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", EBS Kids
-https://piratesiptv.shortcm.li/ebs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", MBC 3
-https://piratesiptv.shortcm.li/mbc3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ra2RzlQ.png" group-title="kids", Sony Yay Bangla
-https://piratesiptv.shortcm.li/sonyyay.m3u8
-#EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="kids",Discovery Kids
-https://d31i2h2maeqv2f.cloudfront.net/DIS_KIDS.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
 
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tinyurl.com/yxhpgx46",Disney Channel-English
+http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi (1)
+http://180.210.191.2/hls/stream23.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi (2)
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick Toons
+http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/ehm22Z",Cartoon Network-English
+http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
+http://103.153.39.34:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/rS9qd0",Nick jr.too
+http://31.220.41.88:8081/live/uk-nickjrtoo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i0.wp.com/nrinews24x7.com/wp-content/uploads/2020/06/sony-yay.jpg?fit=360%2C480&ssl=1",Sony Yay (Hindi)
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Junior
+http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Junior (uk)
+http://31.220.41.88:8081/live/it-nicklodeon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/sJx3YdP/Screenshot-1.png",Boomerang
+http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iv1.lisimg.com/image/9888271/512full-mbc-3.jpg",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_6.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/FFzJziW.png",Wow Tv
+http://mygoodstream.pw/proxy.php/http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/6MPlxE",Disney XD
+http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="SK Traders-BDIX (সবার চলবে না)", ATN Bangla 
