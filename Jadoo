@@ -72,6 +72,10 @@ http://103.157.237.18:8000/play/630
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg",Sky Sports Football
+http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (1)
+http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD (2)
@@ -80,22 +84,40 @@ https://jio.instream.ml/jio.php?c=Sony_Six_SD&q=800&e=.m3u8
 http://103.205.133.19/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD (2)
 http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD
-http://103.205.133.19/hls/ten2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 3 HD
+http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD (2)
-http://103.81.104.118/hls/stream39.m3u8
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 (3)
+http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
-http://103.205.133.19/hls/ten3.m3u8
+http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
-http://103.81.104.118/hls/stream11.m3u8
+http://180.210.191.2/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
-http://103.81.104.118/hls/stream12.m3u8
+http://180.210.191.2/hls/stream12.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2 (1)
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="Sports" ,Star Sports 1
-http://103.81.104.118/hls/stream15.m3u8
+http://180.210.191.2/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="Sports" ,Star Sports HD 2
-http://103.81.104.118/hls/stream16.m3u8
+http://180.210.191.2/hls/stream16.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/0az2k0H.png",Star Sports 3
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/g7TdD4n.png",TSN 1
+http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/g7TdD4n.png",TSN 5
+http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg"  group-title="Sports",Ten Cricket
-http://103.81.104.118/hls/stream34.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XndtCW3.png",ESPN
+http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png",BT Sports 1
+http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.kindpng.com/picc/m/23-238823_bt-sport-2-logo-hd-png-download.png",BT Sports 2
+http://31.220.41.88:8081/live/bt2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Astro_Arena.png/220px-Astro_Arena.png",Astro Arena
+https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",TNT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Facebook
@@ -104,6 +126,9 @@ https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
 https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH-300x300.png",Sky Sports Cricket (1)
+http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network HD
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
