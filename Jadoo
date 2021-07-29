@@ -111,17 +111,13 @@ http://31.220.41.88:8081/live/tsn5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg"  group-title="Sports",Ten Cricket
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/XndtCW3.png",ESPN
-http://mygoodstream.pw/proxy.php/http://134.19.182.131:8080/edg8_2.m3u8
+http://134.19.182.131:8080/edg8_2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png",BT Sports 1
 http://31.220.41.88:8081/live/bt1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.kindpng.com/picc/m/23-238823_bt-sport-2-logo-hd-png-download.png",BT Sports 2
 http://31.220.41.88:8081/live/bt2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Astro_Arena.png/220px-Astro_Arena.png",Astro Arena
 https://ersupport.com/plugins/QuickWebProxy/miniProxy.php/http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",TNT
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Facebook
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="Sports", Fox Sports 2
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",MAV TV
@@ -129,17 +125,6 @@ https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://sportsjournalism.myblog.arts.ac.uk/files/2015/01/JpMroqIH-300x300.png",Sky Sports Cricket (1)
 http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",WWE Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
-http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
-#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Max 1
-http://7.anbdaouras.xyz/live/9889900/index.m3u8?ZaNa_iptv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Max 2
-http://4.amroutras.xyz/live/00002500/index.m3u8?ZaNa_iptv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
 http://93.157.62.180/Supersport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
@@ -154,10 +139,6 @@ http://93.157.62.180/Supersport5/index.m3u8
 http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
 http://93.157.62.180/Supersport7/index.m3u8
-#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.ibb.co/sKkb94b/BSP1.png",[$]BEIN SPORTS PREMIUM 1HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="[AR]SPORTE ARABE" tvg-logo="https://i.ibb.co/3p5pXDp/BSP2.png",[$]BEIN SPORTS PREMIUM 2HD
-http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
 
 #EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 1FHD
 http://baladi.hopto.org:25461/khan/indi@o/803
@@ -272,15 +253,12 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?t
 
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi",& picture hd
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD [Opt]
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD 
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/u9FbIYV.png",The Q india
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD (opt)
