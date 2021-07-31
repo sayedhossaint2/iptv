@@ -71,7 +71,7 @@ http://103.157.237.18:8000/play/630
 #EXTINF:-1 tvg-logo="" group-title="Sports",Gazi Tv
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
-http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg",Sky Sports Football
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (1)
@@ -93,7 +93,7 @@ http://103.153.39.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
-http://180.210.191.2/hls/stream11.m3u8
+http://103.81.104.118/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="Sports" ,Star Sports Select HD 1
 http://180.210.191.2/hls/stream12.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2 (1)
@@ -228,14 +228,12 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD (2)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max SD
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi", Sony Max HD
-
 #EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",And Pictures HD 
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="Hindi",& Pictures HD 
+http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi", zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi", Star Gold HD
@@ -334,15 +332,9 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 
   ** English **
 #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="English",Star Movies
-
+http://103.81.104.118/hls/stream3.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/sonypixhd.jpg" group-title="English" ,Sony Pix HD
-
-#EXTINF:-1 tvg-logo="" group-title="English", Sony pix HD 
-
-#EXTINF:-1 tvg-logo="" group-title="English", Sony pix 720P
-
-#EXTINF:-1 tvg-logo="http://103.81.104.118/img/starmovies.jpg" group-title="English" ,Star Movies HD
-
+http://103.81.104.118/hls/stream14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="English", MBC
@@ -402,8 +394,8 @@ http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
 http://180.210.191.2/hls/stream23.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick-Hindi (2)
 http://103.109.56.116/live/skyfeed1014/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick Toons
-http://31.220.41.88:8081/live/nicktoons.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick 
+http://103.81.104.118/hls/stream23.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://is.gd/ehm22Z",Cartoon Network-English
 http://31.220.41.88:8081/live/cn.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Hungama_tv_logo.png",Hungama Tv
@@ -412,6 +404,8 @@ http://103.153.39.34:8000/play/a04l/index.m3u8
 http://31.220.41.88:8081/live/uk-nickjrtoo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i0.wp.com/nrinews24x7.com/wp-content/uploads/2020/06/sony-yay.jpg?fit=360%2C480&ssl=1",Sony Yay (Hindi)
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i0.wp.com/nrinews24x7.com/wp-content/uploads/2020/06/sony-yay.jpg?fit=360%2C480&ssl=1",Sony Yay 1(Hindi)
+http://103.81.104.118/hls/stream32.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Junior
 http://103.213.238.70:80/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",Nick Junior (uk)
