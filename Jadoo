@@ -140,62 +140,43 @@ http://93.157.62.180/Supersport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
 http://93.157.62.180/Supersport7/index.m3u8
 
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 1FHD
-http://baladi.hopto.org:25461/khan/indi@o/803
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 1HD
-http://baladi.hopto.org:25461/khan/indi@o/791
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 2 SD+
-http://baladi.hopto.org:25461/khan/indi@o/817
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 2FHD
-http://baladi.hopto.org:25461/khan/indi@o/804
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 2HD
-http://baladi.hopto.org:25461/khan/indi@o/792
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 3 SD+
-http://baladi.hopto.org:25461/khan/indi@o/819
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 3FHD
-http://baladi.hopto.org:25461/khan/indi@o/805
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 3HD
-http://baladi.hopto.org:25461/khan/indi@o/793
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 4 SD+
-http://baladi.hopto.org:25461/khan/indi@o/818
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 4FHD
-http://baladi.hopto.org:25461/khan/indi@o/806
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 4HD
-http://baladi.hopto.org:25461/khan/indi@o/794
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 5 SD+
-http://baladi.hopto.org:25461/khan/indi@o/820
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 5FHD
-http://baladi.hopto.org:25461/khan/indi@o/807
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 5HD
-http://baladi.hopto.org:25461/khan/indi@o/795
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 6 SD+
-http://baladi.hopto.org:25461/khan/indi@o/821
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 6FHD
-http://baladi.hopto.org:25461/khan/indi@o/808
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 6HD
-http://baladi.hopto.org:25461/khan/indi@o/796
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 7 SD+
-http://baladi.hopto.org:25461/khan/indi@o/822
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 7FHD
-http://baladi.hopto.org:25461/khan/indi@o/809
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 7HD
-http://baladi.hopto.org:25461/khan/indi@o/797
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 8 SD+
-http://baladi.hopto.org:25461/khan/indi@o/823
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 8FHD
-http://baladi.hopto.org:25461/khan/indi@o/810
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 8HD
-http://baladi.hopto.org:25461/khan/indi@o/798
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 9 SD+
-http://baladi.hopto.org:25461/khan/indi@o/824
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 9FHD
-http://baladi.hopto.org:25461/khan/indi@o/811
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports 9HD
-http://baladi.hopto.org:25461/khan/indi@o/799
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports ES
-http://baladi.hopto.org:25461/khan/indi@o/1890
-#EXTINF:-1,GROUP-TITLE=“BEIN SPORTS” TVG-LOGO=“HTTPS://I.IMGUR.COM/RZQQ0MG.PNG”, Bein Sports News HD
-http://baladi.hopto.org:25461/khan/indi@o/790
+#EXTINF:-1 tvg-id="" tvg-name="lo beIN Sport Premium 1" tvg-logo="" group-title="BEIN SPORTS HD",lo beIN Sport Premium 1
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64472.ts
+#EXTINF:-1 tvg-id="" tvg-name="lo beIN Sport Premium 2" tvg-logo="" group-title="BEIN SPORTS HD",lo beIN Sport Premium 2
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64473.ts
+#EXTINF:-1 tvg-id="" tvg-name="lo beIN Sport Premium 3" tvg-logo="" group-title="BEIN SPORTS HD",lo beIN Sport Premium 3
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64474.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 01 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 01 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61016.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 02 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 02 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61017.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 03 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 03 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61018.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 04 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 04 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61019.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 05 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 05 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61020.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 06 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 06 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61021.ts
+#EXTINF:-1 tvg-id="" tvg-name="LO BEIN SPORTS 07 HD" tvg-logo="" group-title="BEIN SPORTS HD",LO BEIN SPORTS 07 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/61022.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 1 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64261.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 2 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64262.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 3 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64263.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 4 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64264.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 5 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64265.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 6 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64266.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 7 HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64267.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport NBA HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport NBA HD
+http://firetv.vip:80/live/a0549743275r/rt0549743275/64274.ts
 
 
 
