@@ -72,6 +72,8 @@ http://103.157.237.18:8000/play/630
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
 http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Barca TV
+http://dimapro.cz:8080/00:1A:79:17:08:2D/amj@@@tofll/59564
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg",Sky Sports Football
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (1)
@@ -1065,55 +1067,3 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2013/Deewana%20%282013
 #EXTINF:-1 group-title="BANGLA MOVIES",Boss (2013)
 http://content.discoveryftp.net/Movies/Bangla/2013/Boss/Boss%202014.mkv
 
-
-**BEIN SPORTS**
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 01" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 01
-http://hbox.cdnss.me:80/bestcs/bestcs/7946
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 01*" tvg-logo="http://smarters.ddns.net:8000/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 01*
-http://hbox.cdnss.me:80/bestcs/bestcs/7947
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 02" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 02
-http://hbox.cdnss.me:80/bestcs/bestcs/7948
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 02*" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 02*
-http://hbox.cdnss.me:80/bestcs/bestcs/7949
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 03" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 03
-http://hbox.cdnss.me:80/bestcs/bestcs/7950
-#EXTINF:-1 tvg-id="" tvg-name="(SPORT) Bein Sport English 03*" tvg-logo="http://smarters.ddns.net:2082/images/851ddf5058cf22df63d3344ad89919cf.png" group-title="Beinsport",(SPORT) Bein Sport English 03*
-http://hbox.cdnss.me:80/bestcs/bestcs/7951
-#EXTINF:-1,Sport Extra 1 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/76940.ts
-#EXTINF:-1,Sport Extra 2 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/76941.ts
-#EXTINF:-1,lo Sport Premium SD1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64461.ts
-#EXTINF:-1,lo Sport Premium SD2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64462.ts
-#EXTINF:-1,lo Sport Premium SD3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64463.ts
-#EXTINF:-1,lo Sport SD1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64464.ts
-#EXTINF:-1,lo Sport SD2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64465.ts
-#EXTINF:-1,lo Sport SD3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64466.ts
-#EXTINF:-1,lo Sport SD4
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64467.ts
-#EXTINF:-1,lo Sport SD5
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64468.ts
-#EXTINF:-1,lo Sport SD6
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64469.ts
-#EXTINF:-1,lo Sport SD7
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64470.ts
-#EXTINF:-1,Sport Premium SD 1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64299.ts
-#EXTINF:-1,Sport Premium SD 2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64300.ts
-#EXTINF:-1,Sport Premium SD 3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64301.ts
-#EXTINF:-1,Sport SD 1
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64302.ts
-#EXTINF:-1,Sport SD 2
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64303.ts
-#EXTINF:-1,Sport SD 3
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64304.ts
-#EXTINF:-1,Sport SD 4
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64305.ts
