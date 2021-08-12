@@ -67,31 +67,31 @@ http://103.205.133.19/hls/somoy.m3u8
 ** Sports **		 										**Sports**
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports HD 
-http://103.157.237.18:8000/play/630
+http://209.126.120.155/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Gazi Tv
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Barca TV
-http://dimapro.cz:8080/00:1A:79:17:08:2D/amj@@@tofll/59564
+http://dt1q9ova10xfm.cloudfront.net/hgdf32.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg",Sky Sports Football
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (1)
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD (2)
-https://jio.instream.ml/jio.php?c=Sony_Six_SD&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Astro Cricket
+http://iptv.tvmalaysia.cc/live/penang172/penang172/6717.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD
-http://103.205.133.19/hls/ten1.m3u8
+http://209.126.120.155/hls/ten1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD (2)
 http://103.81.104.118/hls/stream40.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 3 HD
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD (2)
 http://103.109.56.116/live/skyfeed1018/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg",Sony Ten 2 (3)
-http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="",Geo super
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
