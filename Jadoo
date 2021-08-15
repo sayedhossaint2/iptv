@@ -69,7 +69,7 @@ http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports HD 
 http://209.126.120.155/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Gazi Tv
-http://103.157.237.18:8000/play/122
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Barca TV
