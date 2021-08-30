@@ -147,22 +147,22 @@ http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Bein Sports 2
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport premium 1 HD
+http://55.1-bour.xyz/live/6161655/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport premium 2 HD
+http://55.1-bour.xyz/live/616194987/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport premium 3 HD
+http://55.1-bour.xyz/live/6151278887/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 1 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64261.ts
+http://55.1-bour.xyz/live/918454578/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 2 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64262.ts
+http://55.1-bour.xyz/live/69854211/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 3 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64263.ts
+http://55.1-bour.xyz/live/645587700/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 4 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64264.ts
+http://55.abdakaroukhai.xyz/live/9787488847/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 5 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64265.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 6 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64266.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport 7 HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64267.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport NBA HD" tvg-logo="" group-title="BEIN SPORTS HD+",beIN Sport NBA HD
-http://firetv.vip:80/live/a0549743275r/rt0549743275/64274.ts
+http://55.abdakaroukhai.xyz/live/610303030/index.m3u8
 
 
 
