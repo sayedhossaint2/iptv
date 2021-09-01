@@ -68,6 +68,8 @@ http://103.205.133.19/hls/somoy.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports HD 
 http://209.126.120.155/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.daily-sun.com/assets/news_images/2020/11/16/T_Sportsf.jpg" group-title="Sports", T Sports 2 HD 
+https://tv.bdtv.xyz:2096/live/tsports/chunks.m3u8?nimblesessionid=2996890&token=durbinlive
 #EXTINF:-1 tvg-logo="" group-title="Sports",Gazi Tv
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8?token=f6651d8736b502ff75d0881753869518860a8a12-87356586dd7b18f3e2e45094f72a4073-1630095568-1630084768&remote=103.111.164.196
 #EXTINF:-1 tvg-logo="" group-title="Sports", Ten sports
