@@ -84,16 +84,17 @@ http://103.109.56.116/live/skyfeed1017/index.m3u8
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Astro Cricket
 http://iptv.tvmalaysia.cc/live/penang172/penang172/6717.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports",Bein Sports HD
-https://dyi2c794mo8a5.cloudfront.net/out/v1/0a03b639ba534885a68f4ff65385b8dc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1 HD (2)
-http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Bein Sports 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Super sports premier league HD
 https://d1jliyqx70imb8.cloudfront.net/out/v1/2b69d7c52bc84bbabac2c8fdd6cfde40/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rY69nFs.jpg" group-title="Sports", Sony Ten 2 HD (2)
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="",Geo super
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://103.153.39.34:8000/play/a049/index.m3u8
 #EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="Sports" ,PTV Sports
