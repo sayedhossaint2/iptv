@@ -79,7 +79,7 @@ https://1ojy.short.gy/nayeemparvez86/Bein-Sports-3-English.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.phonesreview.co.uk/wp-content/phoneimages/Sky-Sports-Football-app.jpg",Sky Sports Football
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png",Sony Ten 1 (1)
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+https://nmxlive.akamaized.net:443/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six HD
 https://jio.instream.ml/jio.php?c=Six_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Astro Cricket
